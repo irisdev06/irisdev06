@@ -25,7 +25,6 @@
 <h2><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irisdev06&show_icons=true&locale=en&layout=compact" alt="irisdev06"/></h2>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/irisval06?color=%23ea899a&logoColor=%23ea899a)](https://twitter.com/irisval06)
 
 
 
