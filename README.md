@@ -6,7 +6,7 @@
 - 💻 I’m a passionate UX/UI designer and front-end developer.
 - 🌱 I’m currently learning Databases.
 - 💬 Ask me about anything, I am happy to help.
-- 💼 I'm aviable for remote work.
+- 💼 I'm available for remote work.
 
 ---
 
