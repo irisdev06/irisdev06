@@ -3,7 +3,7 @@
 
 <h2> Hi Cybernaut! ✌🏼 I'm Iris Val <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-- 💻 I’m a passionate UX/UI designer and front-end developer in progress.
+- 💻 I’m a passionate UX/UI designer and front-end developer.
 - 🌱 I’m currently learning Databases.
 - 💬 Ask me about anything, I am happy to help.
 - 💼 I'm aviable for remote work.
