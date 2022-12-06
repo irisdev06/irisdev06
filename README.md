@@ -3,8 +3,9 @@
 
 <h2> Hi Cybernaut! ✌🏼 I'm Iris Val <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-- 💻 I’m a passionate UX/UI designer and front-end developer.
-- 🌱 I’m currently learning Databases.
+- 💻 I’m a lifelong learner interested in Data Science.
+- 👾Proud Data Nerd.
+- 🌱 I’m currently learning DataScience.
 - 💬 Ask me about anything, I am happy to help.
 - 💼 I'm available for remote work.
 
