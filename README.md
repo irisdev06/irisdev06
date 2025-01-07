@@ -27,9 +27,10 @@
 
 
 ---
-<h2>
+<h2 style="color: white;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irisdev06&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css" alt="irisdev06"/>
 </h2>
+
 
 
 
