@@ -1,13 +1,18 @@
-<img align='left' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/LinkFront_Beat.gif' width='20%'>  
-<img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'> 
+<div style="display: flex; align-items: center; justify-content: center;">
+  <h2>Hi Cybernaut! ✌🏼 I'm Iris Val <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25" style="margin-left: 10px;"></h2>
+</div>
 
-<h2> Hi Cybernaut! ✌🏼 I'm Iris Val <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<ul>
+  <li>💻 I’m a lifelong learner interested in Data Science.</li>
+  <li>👾 Proud Data Nerd.</li>
+  <li>🌱 I’m currently learning Data Science.</li>
+  <li>💬 Ask me about anything, I am happy to help.</li>
+  <li>💼 I'm available for remote work.</li>
+</ul>
 
-- 💻 I’m a lifelong learner interested in Data Science.
-- 👾Proud Data Nerd.
-- 🌱 I’m currently learning DataScience.
-- 💬 Ask me about anything, I am happy to help.
-- 💼 I'm available for remote work.
+
+
+
 
 ---
 
